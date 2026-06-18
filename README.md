@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0001-two-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
