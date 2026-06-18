@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
