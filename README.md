@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
