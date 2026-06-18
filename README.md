@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
