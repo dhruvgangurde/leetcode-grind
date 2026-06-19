@@ -8,8 +8,8 @@ public:
                 int alphabet = c - 'a';
                 sum += weights[alphabet];
             }
-            result += char('z' - sum%26);
+            result += char('z' - sum % 26);
         }
         return result;
     }
-};
+};      
