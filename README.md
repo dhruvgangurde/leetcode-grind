@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
