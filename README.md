@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0012-integer-to-roman) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3783-mirror-distance-of-an-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
