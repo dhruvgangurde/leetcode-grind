@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0012-integer-to-roman) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
