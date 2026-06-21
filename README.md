@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
