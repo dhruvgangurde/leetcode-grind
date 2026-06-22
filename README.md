@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
