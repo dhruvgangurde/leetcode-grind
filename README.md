@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -128,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
