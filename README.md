@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1929-concatenation-of-array) |
