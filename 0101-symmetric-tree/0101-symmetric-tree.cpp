@@ -55,31 +55,24 @@ class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
         if(root == NULL) return true;
-
         queue<pair<TreeNode*, TreeNode*>> q;
         q.push({root->left, root->right});
-
         while(!q.empty()) {
             auto [left, right] = q.front();
             q.pop();
-
             // both are NULL
             if(left == NULL && right == NULL)
                 continue;
-
             // one is NULL
             if(left == NULL || right == NULL)
                 return false;
-
             // values dont match
             if(left->val != right->val)
                 return false;
-
             // push mirror children
             q.push({left->left, right->right});
             q.push({left->right, right->left});
         }
-
         return true;
     }
 };
