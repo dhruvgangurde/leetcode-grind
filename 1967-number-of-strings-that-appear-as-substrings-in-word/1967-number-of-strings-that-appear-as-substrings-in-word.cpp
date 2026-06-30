@@ -5,10 +5,9 @@ public:
         for(auto ch: word){
             freq[ch]++;
         }
-        static const size_t npos = -1;
         int count = 0;
         for(auto s: patterns){
-            if(word.find(s) != npos){
+            if(word.find(s) != -1){
                 count++;
             }
         }
