@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
