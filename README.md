@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
