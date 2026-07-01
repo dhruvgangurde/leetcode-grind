@@ -15,7 +15,7 @@ public:
         return noofB >= m;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        if(((long long) m *(long long) k) > bloomDay.size()) 
+        if(((long long) m * (long long) k) > bloomDay.size()) 
             return -1;
         int maxi = 0;
         int mini = INT_MAX;
@@ -23,17 +23,15 @@ public:
             maxi = max(maxi, i);
             mini = min(mini, i);
         }
-        int ans = INT_MAX;
         int low = mini, high = maxi;
         while(low <= high){
             int mid = (low + high) / 2;
             if(canBeUsed(bloomDay, mid, m, k)){
-                ans = min(ans, mid);
                 high = mid - 1;
             }else{
                 low = mid + 1;
             }
         }
-        return ans;
+        return low;
     }
 };
