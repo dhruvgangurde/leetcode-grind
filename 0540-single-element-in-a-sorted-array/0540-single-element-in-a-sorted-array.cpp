@@ -1,10 +1,40 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int x = 0;
-        for(int i : nums){
-            x ^= i;
+        int n = nums.size();
+        if(n == 1) 
+            return nums[0];
+        if(nums[0] != nums[1])
+            return nums[0];
+        if(nums[n - 1] != nums[n - 2])
+            return nums[n - 1];
+        int low = 1, high = n - 2;
+        while(low <= high){
+            int mid = (low + high) / 2;
+            if((nums[mid - 1] != nums[mid]) && (nums[mid] != nums[mid + 1]))
+                //a single element
+                return nums[mid];
+            else{
+                // check what type of pair are they
+                // even,odd -> left eliminate or odd,even -> right eliminate
+                if(mid % 2 == 0){
+                    if(nums[mid] == nums[mid+1])
+                        // even odd
+                        low = mid + 1;// eliminate left half
+                    else
+                        // odd even
+                        high = mid - 1;// eliminate right half
+                }
+                else{
+                    if(nums[mid] == nums[mid-1])
+                        // even odd
+                        low = mid + 1;// eliminate left half
+                    else
+                        // odd even
+                        high = mid - 1;// eliminate right half
+                }
+            }
         }
-        return x;
+        return 0;
     }
 };
