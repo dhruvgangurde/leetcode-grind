@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0704-binary-search) |
 ## Stack
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0012-integer-to-roman) |
+| [0367-valid-perfect-square](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0367-valid-perfect-square) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
