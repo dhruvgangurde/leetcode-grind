@@ -3,7 +3,7 @@ public:
     bool func(vector<int>& nums, int threshold, int curr){
         int sum = 0;
         for(int i : nums)
-            sum += ceil((double)i / curr);
+            sum += (i + curr - 1) / curr;
         return sum <= threshold;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
