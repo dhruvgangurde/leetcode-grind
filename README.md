@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
