@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0367-valid-perfect-square) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
