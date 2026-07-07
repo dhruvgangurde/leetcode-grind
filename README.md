@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2833-furthest-point-from-origin) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
