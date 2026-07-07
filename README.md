@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1833-maximum-ice-cream-bars) |
+| [1901-find-a-peak-element-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -299,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/dhruvgangurde13-cmd/leetcode-grind/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
