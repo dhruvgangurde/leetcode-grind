@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int f(vector<int> nums){
+    int f(const vector<int> &nums){
         int maxi = 0;
-        int index;
+        int index = -1;
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] > maxi) {
                 maxi = nums[i];
@@ -19,8 +19,8 @@ public:
         int low = 0, high = mat.size() - 1;// for keeping track of row on which we are
         while(low <= high) {
             int mid = (low + high) / 2;// middle row
-            int maybePeak = f(mat[mid]);
-            int value = mat[mid][maybePeak];
+            int maybePeak = f(mat[mid]);// index of maybe peak element
+            int value = mat[mid][maybePeak];// value of that peak element
             int up, down;
             // for checking down
             if(mid + 1 < n){
